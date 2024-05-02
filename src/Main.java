@@ -22,6 +22,7 @@ public class Main {
         else if ( number > 80 && number <= 100) {
             System.out.println("grae a+ " + number);
 
+
         }
     }
 }
