@@ -4,7 +4,7 @@ import java.util.Scanner;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in)
+        Scanner scanner = new Scanner(System.in);
 
 
     }
